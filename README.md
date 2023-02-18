@@ -1,4 +1,5 @@
 <h1 align="center">print('Hi 👋, I\'m Ömer Can')</h1>
+<h3 align="center">Quality Specialist 🔎</h3>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 <p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=duyaromercan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="duyaromercan" /></p>
