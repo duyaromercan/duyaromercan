@@ -9,7 +9,10 @@
 - 📫 How to reach me **duyaromercan@gmail.com**
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/duyaromercan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duyaryigithan" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duyaromercan&show_icons=true&theme=tokyonight&locale=en" alt="duyaromercan" /></p>
 
