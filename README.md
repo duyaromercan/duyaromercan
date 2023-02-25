@@ -1,4 +1,4 @@
-<h1 align="center">print('Hi 👋, I\'m Ömer Can')</h1>
+<h1 align="center">print('Hi 👋, I\'m Omer Can')</h1>
 <h3 align="center">Process & QA Excellence</h3>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
